@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(108, 235, 192);
+    text-align: center;
+    padding-top: 100px;
+    font: normal 16px arial, sans-serif;
+}
+
+section{
+    background-color: antiquewhite;
+    margin: auto;
+    width: 500px;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+div{
+    padding: 10px;
+}
+
+#resultado{
+    width: 300px;
+    height: 200px;
+    border: 1px solid rgb(74, 138, 167);
+    text-align: center;
+    margin:auto;
+}
+
+footer{
+    margin-top: 10px;
+}
